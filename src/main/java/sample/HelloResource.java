@@ -1,4 +1,4 @@
-package sebi;
+package sample;
 
 
 import jakarta.ws.rs.GET;
