@@ -1,4 +1,4 @@
-package sample;
+package za.co.bmw;
 
 
 import jakarta.ws.rs.GET;
